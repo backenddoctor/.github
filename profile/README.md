@@ -1,12 +1,10 @@
-## Hi there 👋
+[![Backend Doctor banner](https://github.com/backenddoctor/.github/raw/main/profile/banner.png)](https://backenddoctor.com/)
 
-<!--
 
-**Here are some ideas to get you started:**
+# 🙋‍♀️ Hi there!
+Backend Doctor is a cloud consulting company specialising in DevOps, Kubernetes, software development, API integration and database management.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 👩‍💻 Contacts
+[![Twitter @BackendDoctor](https://img.shields.io/twitter/follow/BackendDoctor?style=social)](https://twitter.com/BackendDoctor)  
+[![GitHub @backenddoctor](https://img.shields.io/github/followers/backenddoctor?style=social)](https://github.com/backenddoctor)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/company/backenddoctor)
